@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-example/ijkplayer.ijkplayer-example.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-example/ijkplayer.ijkplayer-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-example/ijkplayer.ijkplayer-example.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-example/ijkplayer.ijkplayer-example.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-example/ijkplayer.ijkplayer-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-example/ijkplayer.ijkplayer-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-example/ijkplayer.ijkplayer-example.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-example/ijkplayer.ijkplayer-example.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-exo/ijkplayer.ijkplayer-exo.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-exo/ijkplayer.ijkplayer-exo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-exo/ijkplayer.ijkplayer-exo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-exo/ijkplayer.ijkplayer-exo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-exo/ijkplayer.ijkplayer-exo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-exo/ijkplayer.ijkplayer-exo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-exo/ijkplayer.ijkplayer-exo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-exo/ijkplayer.ijkplayer-exo.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-java/ijkplayer.ijkplayer-java.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-java/ijkplayer.ijkplayer-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-java/ijkplayer.ijkplayer-java.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-java/ijkplayer.ijkplayer-java.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-java/ijkplayer.ijkplayer-java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-java/ijkplayer.ijkplayer-java.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer-java/ijkplayer.ijkplayer-java.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer-java/ijkplayer.ijkplayer-java.unitTest.iml" />
+    </modules>
+  </component>
+</project>
