@@ -4,10 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.37907608695652173" />
+        <entry key="ijkplayer-example/src/main/res/drawable-hdpi/style_seek_bar.xml" value="0.38" />
         <entry key="ijkplayer-example/src/main/res/layout/activity_app.xml" value="0.32864583333333336" />
         <entry key="ijkplayer-example/src/main/res/layout/activity_player.xml" value="0.32864583333333336" />
         <entry key="ijkplayer-example/src/main/res/layout/fragment_file_list.xml" value="0.32864583333333336" />
+        <entry key="ijkplayer-example/src/main/res/layout/fragment_track_list.xml" value="0.34375" />
+        <entry key="ijkplayer-example/src/main/res/layout/table_media_info_section.xml" value="0.4203125" />
         <entry key="ijkplayer-example/src/main/res/layout/widget_toolbar.xml" value="0.32864583333333336" />
+        <entry key="ijkplayer-example/src/main/res/menu/menu_app.xml" value="0.34375" />
+        <entry key="ijkplayer-example/src/main/res/menu/menu_player.xml" value="0.4453125" />
       </map>
     </option>
   </component>

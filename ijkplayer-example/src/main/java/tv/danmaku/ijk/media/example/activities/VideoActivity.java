@@ -38,6 +38,7 @@ import android.view.ViewGroup;
 import android.widget.TableLayout;
 import android.widget.TextView;
 
+import tv.danmaku.ijk.media.player.IjkLibLoader;
 import tv.danmaku.ijk.media.player.IjkMediaPlayer;
 import tv.danmaku.ijk.media.player.misc.ITrackInfo;
 import tv.danmaku.ijk.media.example.R;
@@ -135,6 +136,7 @@ public class VideoActivity extends AppCompatActivity implements TracksFragment.I
 
         // init player
         IjkMediaPlayer.loadLibrariesOnce(null);
+        //这个是加载----性能分析工具android-ndk-profiler的动态库
         IjkMediaPlayer.native_profileBegin("libijkplayer.so");
 
         mVideoView = (IjkVideoView) findViewById(R.id.video_view);

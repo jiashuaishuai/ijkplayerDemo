@@ -81,7 +81,7 @@ public class SampleMediaListFragment extends Fragment {
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear4/prog_index.m3u8", "bipbop advanced 1289x720 @ 1 Mbps");
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear5/prog_index.m3u8", "bipbop advanced 1920x1080 @ 2 Mbps");
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear0/prog_index.m3u8", "bipbop advanced 22.050Hz stereo @ 40 kbps");
-        mAdapter.addItem("https://d1--cn-gotcha208.bilivideo.com/live-bvc/304840/live_23329721_9120354/index.m3u8?expires=1659585731&len=0&oi=2071668949&pt=web&qn=10000&trid=10075a2598503ac3463490ce418e3bb77460&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=cd24c5f8363ad6a04c12e8a7de69e3f3&sk=1c485058d8a502f1fdff12fb9b9d2f81&p2p_type=1&src=57345&sl=1&free_type=0&pp=rtmp&machinezone=jd&source=onetier&site=bd37fb00f459994c35ff1f4cc3a0fb4f&order=1","111");
+        mAdapter.addItem("http://192.168.1.115:8080/hls/1.m3u8","111");
 
 
     }
