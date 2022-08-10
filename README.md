@@ -132,7 +132,10 @@ include ':ijkplayer-example'
 修改ijkVideoView删除与IjkExoMediaPlayer相关代码即可运行
 
 
+## ffpeg推流命令
 
+推桌面：ffmpeg -f avfoundation   -i "1:0"  -pix_fmt yuv420p -y -r 10 -hls_time 1 -hls_list_size 3  -strict -2 /usr/local/var/www/hls/1.m3u8
+推视频：fmpeg -re  -analyzeduration 8000 -probesize 200000 -i 1.flv  -hls_time 1 -hls_list_size 3  -strict -2 -c:v copy -c:a aac -bsf:a aac_adtstoasc /usr/local/var/www/hls/1.m3u8
 
 
 ## 问题总结
