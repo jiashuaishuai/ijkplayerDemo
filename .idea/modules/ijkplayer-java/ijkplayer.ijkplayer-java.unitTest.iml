@@ -24,7 +24,7 @@
     <content url="file://$MODULE_DIR$/../../../ijkplayer-java/build/generated/ap_generated_sources/debugUnitTest/out" />
     <content url="file://$MODULE_DIR$/../../../ijkplayer-java/src/test" />
     <content url="file://$MODULE_DIR$/../../../ijkplayer-java/src/testDebug" />
-    <orderEntry type="jdk" jdkName="Android API 25 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ijkplayer.ijkplayer-java.main" scope="TEST" />
   </component>

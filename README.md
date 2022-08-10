@@ -172,9 +172,19 @@ include ':ijkplayer-example'
    HOST_AWK := $(wildcard $(HOST_PREBUILT)/awk$(HOST_EXEEXT))
    参考文献：https://www.cnblogs.com/smartptr/p/15666227.html
 
+4. 集成完毕后升级sdk版本为31报错:
+   *Fatal signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x386d0 in tid 15772 (ff_read), pid 14629 (k.media.example)*
+   or
+   *Fatal signal 7 (SIGBUS), code 1 (BUS_ADRALN), fault addr 0x67000000018102 in tid 15839 (ff_read), pid 14630 (k.media.example)*
 
+   需要再清单文件application添加如下代码：
 
+   ```xm
+     <application android:allowNativeHeapPointerTagging="false"
+     .......
+   ```
 
+   参考：https://github.com/bilibili/ijkplayer/issues/5334
 
 
 

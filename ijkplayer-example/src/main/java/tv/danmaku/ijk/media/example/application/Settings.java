@@ -66,6 +66,9 @@ public class Settings {
         String key = mAppContext.getString(R.string.pref_key_media_codec_handle_resolution_change);
         return mSharedPreferences.getBoolean(key, false);
     }
+    public boolean getEnableMediacodecHevc(){
+        return true;
+    }
 
     public boolean getUsingOpenSLES() {
         String key = mAppContext.getString(R.string.pref_key_using_opensl_es);
